@@ -7,6 +7,7 @@
 + [SynKit](https://github.com/Hennzau/SynKit) : Modern C++ Development Toolkit 
     - [SynKit_Maths](https://github.com/Hennzau/SynKit/tree/main/core/maths) : Mathematics library for game development in C++
     - [SynKit_Vulkan](https://github.com/Hennzau/SynKit/tree/main/graphics/vulkan) : Vulkan C++ implementation
+    - [SynKit_Renderer](https://github.com/Hennzau/SynKit/tree/main/graphics/renderer) : A render engine using SynKit_Vulkan
     
 # My Skills
 ### Languages
