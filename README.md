@@ -5,7 +5,7 @@
 ### My personal projects 
 
 - [Synk](https://github.com/Hennzau/Synk) : C++ development environment
-- [SynKit]((https://github.com/Hennzau/Synk) : C++ toolkit easy-to-use
+- [SynKit](https://github.com/Hennzau/Synk) : C++ toolkit easy-to-use
 
 # My Skills
 ### Languages
