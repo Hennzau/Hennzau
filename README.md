@@ -4,6 +4,9 @@
 
 ### My personal projects 
 
+- [Synk](https://github.com/Hennzau/Synk) : C++ development environment
+- [SynKit]((https://github.com/Hennzau/Synk) : C++ toolkit easy-to-use
+
 # My Skills
 ### Languages
   
@@ -26,4 +29,4 @@
 
 ## I'm on social networks 💬 
 
-[![](https://img.icons8.com/color/48/000000/discord-logo.png?raw=true)](https://discord.gg/xpAmM2YXtk)[![](https://img.icons8.com/color/48/000000/instagram-new.png?raw=true)](https://www.instagram.com/hennzau/)[![](https://img.icons8.com/color/48/000000/youtube.png?raw=true)](https://www.youtube.com/channel/UCNLxNIFxaYHO4oSFxGUm8gA)
+[![](https://img.icons8.com/color/48/000000/discord-logo.png?raw=true)](https://discord.gg/xpAmM2YXtk)[![](https://img.icons8.com/color/48/000000/instagram-new.png?raw=true)](https://www.instagram.com/enzo.levan/)[![](https://img.icons8.com/color/48/000000/youtube.png?raw=true)](https://www.youtube.com/channel/UCWKmLymE9ko1S2EWuxpR9kg)
