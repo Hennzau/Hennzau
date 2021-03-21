@@ -4,8 +4,8 @@
 
 ### My personal projects 
 
-- [Synk](https://github.com/Hennzau/Synk) : C++ development environment
-- [SynKit](https://github.com/Hennzau/Synk) : C++ toolkit easy-to-use
+- [Synk](https://github.com/Hennzau/Synk) : C++ program to facilitate project creation and dependency management with CMake
+- [SynKit](https://github.com/Hennzau/Synk/tree/main/synkit) : Easy to use C++20 libraries (via Synk).  
 
 # My Skills
 ### Languages
