@@ -10,10 +10,10 @@
 # My Skills
 ### Languages
   
-![](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)  I started programming with the Java language at the beginning of middle school in order to create my first prototypes. 
-![s](https://img.icons8.com/color/50/000000/c-plus-plus-logo.png) Later, at the beginning of high school I gave up Java to make way for C++ and create my development environment and tools. I don't claim to be an expert but I think I have acquired a good level.
+![](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)  I started programming in the Java language at the beginning of middle school in order to create my first prototypes. 
+![s](https://img.icons8.com/color/50/000000/c-plus-plus-logo.png) Later, at the beginning of high school, I gave up Java to make way for C++ and create my development environment and tools. I don't claim to be an expert, but I think I acquired a good level.
 
-### Know Platforms
+### Known Platforms
 
 ![](https://img.icons8.com/fluent/2x/windows-10.png)![](https://img.icons8.com/wired/2x/linux.png)
 
