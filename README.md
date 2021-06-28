@@ -17,19 +17,9 @@ At the moment I'm working with a friend (@Adridri24), on a programming language!
 
 ![](https://img.icons8.com/color/50/000000/c-plus-plus-logo.png) Later, at the beginning of high school, I gave up Java to make way for C++ and create my development environment and tools. I don't claim to be an expert, but I think I acquired a good level.
 
-### Known Platforms
+### Known Platforms & APIs
 
-![](https://img.icons8.com/fluent/2x/windows-10.png)![](https://img.icons8.com/wired/2x/linux.png)
-
-### Known libraries & APIs
-![](https://imgur.com/JYWaId7.png) ![](https://imgur.com/0PW1XTZ.png)
-
-- GLFW 
-- GLEW
-- GLM
-- FreeType
-- LWJGL
-- EnTT
+![](https://img.icons8.com/fluent/2x/windows-10.png)![](https://img.icons8.com/wired/2x/linux.png)![](https://imgur.com/JYWaId7.png)![](https://imgur.com/0PW1XTZ.png)
 
 ## I'm on social networks 💬 
 
