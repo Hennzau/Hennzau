@@ -5,9 +5,9 @@
 ### My personal projects 
 
 I was able to realize many projects, small things in video games, management applications or animations. But they are not on this GitHub anymore! 
-At the moment I'm working with a friend @[Adridri24](https://github.com/Adridri24) on a programming language! 
+At the moment I'm working with a friend @[Adrien](https://github.com/ajayat) on a programming language! 
 
-This is the organization : [new-lang](https://github.com/new-lang-org)
+This is the organization : [omega-lang](https://github.com/omegalang)
 
 # My Skills
 
