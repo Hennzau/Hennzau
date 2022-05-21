@@ -5,9 +5,12 @@
 ### My personal projects 
 
 I was able to realize many projects, small things in video games, management applications or animations. But they are not on this GitHub anymore! 
-At the moment I'm working with a friend @[Adrien](https://github.com/ajayat) on a programming language! 
+At the moment I'm studying mathematics and physics at Sainte-Geneviève prep-school in Versailles so I have less time to spend on programming.
 
-This is the organization : [omega-lang](https://github.com/omegalang)
+Currently thinking about : 
+  - home made ecs
+  - home made windowing library
+  - home made desktop-app builder
 
 # My Skills
 
