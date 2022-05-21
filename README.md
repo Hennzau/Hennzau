@@ -1,8 +1,16 @@
-# Hi there 👋
+<h1 align="center"> 👨‍💻 Who am i </h1>
 
-#### My name is Enzo, I'm a postbac student 🏫 in my first year, specializing in math, physics and engineering science ! 👨‍🔬 I also have a great passion for programming so here is my GitHub 😄
+<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=24F7F4&size=24&lines=Hey+there,+I'm+Enzo;I+love+Programming.;I'm+more+of+a+self-learner+;who+loves+to+learn+from+internet.;" alt="Typing SVG" >
 
-### My personal projects 
+<p align="center">
+  <br>
+  My name is Enzo, I'm a postbac student 🏫 in my first year, specializing in math, physics and engineering science ! 👨‍🔬 I also have a great passion for programming   so here is my GitHub 😄
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=Hennzau&color=green&style=flat" color=green/> 
+</p>
+
+
+<h2 align="center"> :student: Personnal Projects </h2>
 
 I was able to realize many projects, small things in video games, management applications or animations. But they are not on this GitHub anymore! 
 At the moment I'm studying mathematics and physics at Sainte-Geneviève prep-school in Versailles so I have less time to spend on programming.
@@ -12,17 +20,33 @@ Currently thinking about :
   - home made windowing library
   - home made desktop-app builder
 
-# My Skills
 
-![](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)  I started programming in the Java language at the beginning of middle school in order to create my first prototypes. 
+--- 
 
-![](https://img.icons8.com/color/50/000000/c-plus-plus-logo.png) Later, at the beginning of high school, I gave up Java to make way for C++ and create my development environment and tools. I don't claim to be an expert, but I think I acquired a good level.
+<h2 align="center"> :student: Programming Languages & Tools</h2>
 
-### Known Platforms & APIs
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-![](https://img.icons8.com/fluent/2x/windows-10.png)![](https://img.icons8.com/wired/2x/linux.png)![](https://imgur.com/JYWaId7.png)![](https://imgur.com/0PW1XTZ.png)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-## I'm on social networks 💬 
+--- 
+
+<h2 align="center">:computer: Platforms </h2>
+
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+--- 
+
+<h2 align="center"> 📬 Social Newtorks </h2>
 
 [![](https://img.icons8.com/color/40/000000/gmail--v1.png)](mailto:enzolevan.dev@gmail.com)
 [![](https://img.icons8.com/color/48/000000/discord-logo.png?raw=true)](https://pastebin.com/GzULEpwx)[![](https://img.icons8.com/color/48/000000/instagram-new.png?raw=true)](https://www.instagram.com/enzo.levan/)[![](https://img.icons8.com/color/48/000000/youtube.png?raw=true)](https://www.youtube.com/channel/UCWKmLymE9ko1S2EWuxpR9kg)
