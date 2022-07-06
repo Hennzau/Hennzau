@@ -16,9 +16,8 @@ I was able to realize many projects, small things in video games, management app
 At the moment I'm studying mathematics and physics at Sainte-Geneviève prep-school in Versailles so I have less time to spend on programming.
 
 Currently thinking about : 
-  - home made ecs
   - home made windowing library
-  - home made desktop-app builder
+  - home made desktop-app builder based on ECS architecture
 
 
 --- 
