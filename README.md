@@ -16,9 +16,10 @@ I was able to realize many projects, small things in video games, management app
 At the moment I'm studying mathematics and physics at Sainte-Geneviève prep-school in Versailles so I have less time to spend on programming.
 
 Currently thinking about : 
-  - home made windowing library
-  - home made desktop-app builder based on ECS architecture
+  - home made desktop-app builder based on ECS architecture: [HnZ](https://github.com/Hennzau/hnz)
+  - home made windowing: [HnZ-Window](https://github.com/Hennzau/hnz-window)
 
+Since I'm studying a lot, I use the [reMarkable Tablet](https://remarkable.com/store/remarkable-2) to get organize. However I've not found a tool that can be used to save all your notebooks in PDF while recreating folder's tree structure. So I made a little tool: [rMCpp](https://github.com/Hennzau/rmcpp) to do this. It's really dirty and it works only for me **but** in the future I'll improve it.
 
 --- 
 
