@@ -4,7 +4,7 @@
 
 <p align="center">
   <br>
-  My name is Enzo, I'm a postbac student 🏫 in my first year, specializing in math, physics and engineering science ! 👨‍🔬 I also have a great passion for programming   so here is my GitHub 😄
+  My name is Enzo, I'm a postbac student 🏫 in my second year, specializing in physics and engineering science ! 👨‍🔬 I also have a great passion for programming   so here is my GitHub 😄
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=Hennzau&color=green&style=flat" color=green/> 
 </p>
