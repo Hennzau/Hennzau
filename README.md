@@ -58,7 +58,7 @@ const hennzau = {
 💻 Mac                                        █░░░░░░░░░░░░░░░░░░░░░░░░   1 % 
 ```
 
-**I Mostly Code in C++ and Rus but I started with Java** 
+**I Mostly Code in C++ and Rust but I started with Java** 
 
 ```text
 C++                      20 projects           ████████████░░░░░░░░░░░░░   46 % 
