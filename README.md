@@ -17,7 +17,7 @@ My name is Enzo, I'm a postbac student 🏫 in my second year, specializing in p
 ```javascript
 const hennzau = {
     pronouns: "He" | "Him",
-    code: ["Rust", "Python", "Java", "C++"],
+    code: ["Rust", "Rust", "Java", "Python"],
     ask_me_about: ["game dev", "tech", "physics", "mathematics"],
     technologies: {
         game_dev: ["Unity", "GameMaker"],
