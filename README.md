@@ -10,7 +10,7 @@
 
 ### 👨‍💻 Who am I ?
 
-My name is Enzo, I'm a postbac student 🏫 in my second year, specializing in physics and engineering science ! 👨‍🔬 I also have a great passion for programming so here is my GitHub 😄
+My name is Enzo, I'm a postbac student 🏫 in my first year in CentraleSupélec Engineering School of France, specializing in physics and engineering science ! 👨‍🔬 I also have a great passion for programming so here is my GitHub 😄
 
 ###  A little more about me...  
 
@@ -24,8 +24,8 @@ const hennzau = {
         rendering: ["OpenGL", "Vulkan"],
         paradigm: "Entity Component System"
     },
-    working_os: ["Windows 11", "Arch Linux"],
-    current_focus: "Desktop App Building"
+    working_os: ["MacOS", "Windows 11", "Arch Linux"],
+    current_focus: "Desktop App Building - Software development for Autonomous Driving"
 };
 ```
 
