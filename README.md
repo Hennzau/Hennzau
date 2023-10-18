@@ -40,22 +40,23 @@ const hennzau = {
  > 
 > 📜 Since I'm studying a lot, I use the [reMarkable Tablet](https://remarkable.com/store/remarkable-2) to get organize. However I've not found a tool that can be used to save all your notebooks in PDF while recreating folder's tree structure. So I made a little tool to do this. It's really dirty and it works only for me **but** in the future I'll improve it and post it here. Message me if you want to hear about that.
 >
-> 🚫 At the moment I'm studying mathematics and physics at Sainte-Geneviève prep-school in Versailles so I have less time to spend on programming.
+> 🚫 For two years I studied mathematics and physics at Sainte-Geneviève prep-school in Versailles (France) so I had less time to spend on programming. Now I'm in Engineering School, I have more time.
  
 **I'm a Jetbrain user 🦉** 
 
 ```text
-🔥 CLion                  ~2400 hours         ████████████████░░░░░░░░░   65 % 
+🔥 CLion                  ~2400 hours         ████████████████░░░░░░░░░   65 %
+🔥 RustRover                ~10 hours         ░░░░░░░░░░░░░░░░░░░░░░░░░   <1 %
 💬 Intellij               ~1200 hours         ████████░░░░░░░░░░░░░░░░░   33 % 
-🕑︎ Pycharm                 ~50 hours           █░░░░░░░░░░░░░░░░░░░░░░░░   2 % 
+🕑︎ Pycharm                ~50 hours           █░░░░░░░░░░░░░░░░░░░░░░░░   2 % 
 ```
 
-📊 **Operating System I'm used to (Couldn't afford Apple...)** 
+📊 **Operating System I'm used to (Couldn' afford Apple until I started engineering school)** 
 
 ```text
+💻 Mac                                        █░░░░░░░░░░░░░░░░░░░░░░░░   1 % 
 💻 Windows                                    ███████████████████░░░░░░   75 % 
 💻 Arch Linux                                 ██████░░░░░░░░░░░░░░░░░░░   24 % 
-💻 Mac                                        █░░░░░░░░░░░░░░░░░░░░░░░░   1 % 
 ```
 
 **I Mostly Code in C++ and Rust but I started with Java** 
