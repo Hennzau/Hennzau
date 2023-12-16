@@ -1,7 +1,7 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi🙏🏻, I'm Enzo - Le Van! </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Student in Physics and Engineering in France
+<p><em>Student in Physics and Engineering in France, CentraleSupélec, University of Paris-Saclay
 </em></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/Hennzau?label=Follow&style=social)
