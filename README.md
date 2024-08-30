@@ -10,7 +10,7 @@
 
 ### 👨‍💻 Who am I ?
 
-My name is Enzo, I'm a postbac student 🏫 in my first year in CentraleSupélec Engineering School of France, specializing in physics and engineering science ! 👨‍🔬 I also have a great passion for programming so here is my GitHub 😄
+My name is Enzo, I'm a postbac student 🏫 in my second year in CentraleSupélec Engineering School of France, specializing in physics and engineering science ! 👨‍🔬 I also have a great passion for programming so here is my GitHub 😄
 
 ###  A little more about me...  
 
