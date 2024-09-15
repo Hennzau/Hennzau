@@ -18,14 +18,15 @@ My name is Enzo, I'm a postbac student 🏫 in my second year in CentraleSupéle
 const hennzau = {
     pronouns: "He" | "Him",
     code: ["Rust", "C++", "Java", "Python"],
-    ask_me_about: ["game dev", "tech", "physics", "mathematics"],
+    ask_me_about: ["robotic", "game dev", "tech", "physics", "mathematics"],
     technologies: {
         game_dev: ["Unity", "GameMaker"],
         rendering: ["OpenGL", "Vulkan"],
-        paradigm: "Entity Component System"
+        paradigm: "Entity Component System",
+        robotic: ["ROS2", "Zenoh", "dora"]
     },
     working_os: ["MacOS", "Windows 11", "Arch Linux"],
-    current_focus: "Desktop App Building - Software development for Autonomous Driving"
+    current_focus: "Desktop App Building"
 };
 ```
 
@@ -33,37 +34,30 @@ const hennzau = {
 
 **🐱 What about development?** 
 
-> 👨‍💻 I was able to realize many projects, small things in video games, management applications or animations. 
+> 👨‍💻 I was able to realize many projects, small things in video games, management applications or animations and robotic applications. 
  > 
-> 🏆 I'm currently thinking about home made desktop-app builder based on ECS architecture.
+> 🏆 I'm currently thinking about robotic applications for autonomous tasks.
  > 
  > 
 > 📜 Since I'm studying a lot, I use the [reMarkable Tablet](https://remarkable.com/store/remarkable-2) to get organize. However I've not found a tool that can be used to save all your notebooks in PDF while recreating folder's tree structure. So I made a little tool to do this. It's really dirty and it works only for me **but** in the future I'll improve it and post it here. Message me if you want to hear about that.
 >
 > 🚫 For two years I studied mathematics and physics at Sainte-Geneviève prep-school in Versailles (France) so I had less time to spend on programming. Now I'm in Engineering School, I have more time.
- 
-**I'm a Jetbrain user 🦉** 
+
+**I'm now a Zed user**: one of the most awesome code editor, try it!!
+
+**I was a Jetbrain user 🦉** 
 
 ```text
-🔥 CLion                  ~2400 hours         ████████████████░░░░░░░░░   65 %
-🔥 RustRover                ~50 hours         █░░░░░░░░░░░░░░░░░░░░░░░░   1 %
-💬 Intellij               ~1200 hours         ████████░░░░░░░░░░░░░░░░░   33 % 
-🕑︎ Pycharm                ~50 hours           █░░░░░░░░░░░░░░░░░░░░░░░░   1 % 
+🔥 CLion                  ~2400 hours
+🔥 RustRover              ~500 hours
+💬 Intellij               ~1200 hours
+🕑︎ Pycharm                ~200 hours
 ```
 
 📊 **Operating Systems I'm currently developping on (I'm used to programming on all those OS)** 
 
 ```text
-💻 Mac                                        ███████████████████░░░░░░   75 % 
-💻 Windows                                    ████████░░░░░░░░░░░░░░░░░   25 % 
-💻 Arch Linux                                 ░░░░░░░░░░░░░░░░░░░░░░░░░   0  % (it's been a long time since I've done anything on Arch...) 
-```
-
-**I mostly code in C++ and Rust but I started with Java** 
-
-```text
-C++                      20 projects           ████████████░░░░░░░░░░░░░   46 % 
-Rust                     3 projects            ████░░░░░░░░░░░░░░░░░░░░░   10 % 
-Java                     17 projects           ████████░░░░░░░░░░░░░░░░░   34 % 
-Python                   3 projects            ████░░░░░░░░░░░░░░░░░░░░░   10 % 
+💻 Mac                                        ██████████░░░░░░░░░░   50 % 
+💻 Windows                                    █████░░░░░░░░░░░░░░░   25 % 
+💻 Ubuntu                                     █████░░░░░░░░░░░░░░░   25 %
 ```
